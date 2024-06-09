@@ -10,7 +10,6 @@
 - [Options](#options)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
