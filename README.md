@@ -22,7 +22,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bashstocks.git
+git clone https://github.com/codebuild101yt/bashstocks.git
 cd bashstocks
 ```
 Make the script executable:
